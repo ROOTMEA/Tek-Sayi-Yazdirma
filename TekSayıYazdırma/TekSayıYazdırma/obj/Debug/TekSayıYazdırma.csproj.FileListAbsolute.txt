@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C#\TekSayıYazdırma\TekSayıYazdırma\bin\Debug\TekSayıYazdırma.exe.config
+C:\Users\User\Desktop\C#\TekSayıYazdırma\TekSayıYazdırma\bin\Debug\TekSayıYazdırma.exe
+C:\Users\User\Desktop\C#\TekSayıYazdırma\TekSayıYazdırma\bin\Debug\TekSayıYazdırma.pdb
+C:\Users\User\Desktop\C#\TekSayıYazdırma\TekSayıYazdırma\obj\Debug\TekSayıYazdırma.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\TekSayıYazdırma\TekSayıYazdırma\obj\Debug\TekSayıYazdırma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\TekSayıYazdırma\TekSayıYazdırma\obj\Debug\TekSayıYazdırma.Form1.resources
+C:\Users\User\Desktop\C#\TekSayıYazdırma\TekSayıYazdırma\obj\Debug\TekSayıYazdırma.Properties.Resources.resources
+C:\Users\User\Desktop\C#\TekSayıYazdırma\TekSayıYazdırma\obj\Debug\TekSayıYazdırma.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\TekSayıYazdırma\TekSayıYazdırma\obj\Debug\TekSayıYazdırma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\TekSayıYazdırma\TekSayıYazdırma\obj\Debug\TekSayıYazdırma.exe
+C:\Users\User\Desktop\C#\TekSayıYazdırma\TekSayıYazdırma\obj\Debug\TekSayıYazdırma.pdb
